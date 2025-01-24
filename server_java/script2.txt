@@ -1,0 +1,6 @@
+add_if_min name="sdkdsf" x=111 y=123 price=1 unitOfMeasure="GRAMS" ownerName="AAA" birthday= eyeColor=RED hairColor=RED nationality=
+add name="EEE" x=111 y=123 price=-1 unitOfMeasure="GRAMS" ownerName="AAA" birthday= eyeColor=RED hairColor=RED nationality=
+update 2 name="EEE" x=111 y=123 price=1 unitOfMeasure="GRAMS" ownerName="AAA" birthday= eyeColor=RED hairColor=RED nationality=
+asd
+help
+show

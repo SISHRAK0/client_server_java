@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Products>
+    <Product>
+        <id>1</id>
+        <name>Product B</name>
+        <price>1000</price>
+        <creationDate>2024-11-22T18:15:37.344581+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>KILOGRAMS</unitOfMeasure>
+        <coordinates>
+            <x>50</x>
+            <y>300</y>
+        </coordinates>
+        <owner>
+            <name>Jane Smith</name>
+            <birthday>1990-07-20</birthday>
+            <eyeColor>BLUE</eyeColor>
+            <hairColor>RED</hairColor>
+            <nationality>FRANCE</nationality>
+        </owner>
+    </Product>
+    <Product>
+        <id>2</id>
+        <name>Product C</name>
+        <price>750</price>
+        <creationDate>2024-11-22T18:15:37.344823+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <coordinates>
+            <x>150</x>
+            <y>250</y>
+        </coordinates>
+        <owner>
+            <name>Emily Johnson</name>
+            <birthday>1995-08-25</birthday>
+            <eyeColor>BLUE</eyeColor>
+            <hairColor>RED</hairColor>
+            <nationality>JAPAN</nationality>
+        </owner>
+    </Product>
+    <Product>
+        <id>3</id>
+        <name>Product D</name>
+        <price>750</price>
+        <creationDate>2024-11-22T18:15:37.345020+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <coordinates>
+            <x>250</x>
+            <y>250</y>
+        </coordinates>
+        <owner>
+            <name>Emily Johnson</name>
+            <birthday>1995-08-25</birthday>
+            <eyeColor>BLUE</eyeColor>
+            <hairColor>RED</hairColor>
+            <nationality>JAPAN</nationality>
+        </owner>
+    </Product>
+    <Product>
+        <id>4</id>
+        <name>Product E</name>
+        <price>2750</price>
+        <creationDate>2024-11-22T18:15:37.345208+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <coordinates>
+            <x>350</x>
+            <y>250</y>
+        </coordinates>
+        <owner>
+            <name>Emily Johnson</name>
+            <birthday>1995-08-25</birthday>
+            <eyeColor>BLUE</eyeColor>
+            <hairColor>RED</hairColor>
+            <nationality>JAPAN</nationality>
+        </owner>
+    </Product>
+    <Product>
+        <id>5</id>
+        <name>Product F</name>
+        <price>1500</price>
+        <creationDate>2024-11-22T18:15:37.345387+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <coordinates>
+            <x>100</x>
+            <y>200</y>
+        </coordinates>
+        <owner>
+            <name>Michael Brown</name>
+            <birthday>1985-05-14</birthday>
+            <eyeColor>ORANGE</eyeColor>
+            <hairColor>BROWN</hairColor>
+            <nationality>USA</nationality>
+        </owner>
+    </Product>
+    <Product>
+        <id>6</id>
+        <name>Product G</name>
+        <price>500</price>
+        <creationDate>2024-11-22T18:15:37.345767+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <coordinates>
+            <x>75</x>
+            <y>350</y>
+        </coordinates>
+    </Product>
+    <Product>
+        <id>7</id>
+        <name>Product H</name>
+        <price>2250</price>
+        <creationDate>2024-11-22T18:15:37.346005+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>MILLIGRAMS</unitOfMeasure>
+        <coordinates>
+            <x>125</x>
+            <y>400</y>
+        </coordinates>
+        <owner>
+            <name>Linda White</name>
+            <birthday>1992-11-30</birthday>
+            <eyeColor>WHITE</eyeColor>
+            <hairColor>BLUE</hairColor>
+            <nationality>VATICAN</nationality>
+        </owner>
+    </Product>
+    <Product>
+        <id>8</id>
+        <name>Product I</name>
+        <price>800</price>
+        <creationDate>2024-11-22T18:15:37.346194+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>KILOGRAMS</unitOfMeasure>
+        <coordinates>
+            <x>200</x>
+            <y>150</y>
+        </coordinates>
+        <owner>
+            <name>Robert Green</name>
+            <birthday>1988-03-22</birthday>
+            <eyeColor>BLUE</eyeColor>
+            <hairColor>RED</hairColor>
+            <nationality>JAPAN</nationality>
+        </owner>
+    </Product>
+    <Product>
+        <id>9</id>
+        <name>D</name>
+        <price>123</price>
+        <creationDate>2024-11-22T18:15:37.346307+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <coordinates>
+            <x>123</x>
+            <y>123</y>
+        </coordinates>
+    </Product>
+    <Product>
+        <id>10</id>
+        <name>dd</name>
+        <price>123</price>
+        <creationDate>2024-11-22T18:15:37.346422+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <coordinates>
+            <x/>
+            <y>123</y>
+        </coordinates>
+    </Product>
+    <Product>
+        <id>11</id>
+        <name>adadad</name>
+        <price></price>
+        <creationDate>2024-11-22T18:15:37.346532+03:00[Europe/Moscow]</creationDate>
+        <unitOfMeasure>GRAMS</unitOfMeasure>
+        <coordinates>
+            <x/>
+            <y>123</y>
+        </coordinates>
+    </Product>
+</Products>

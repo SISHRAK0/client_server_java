@@ -1,0 +1,48 @@
+Описание хранимых в коллекции классов:
+
+public class Product {
+    private Long id; //Поле не может быть null, Значение поля должно быть больше 0, Значение этого поля должно быть уникальным, Значение этого поля должно генерироваться автоматически - done
+    private String name; //Поле не может быть null, Строка не может быть пустой - done
+    private Coordinates coordinates; //Поле не может быть null - done
+    private java.time.LocalDate creationDate; //Поле не может быть null, Значение этого поля должно генерироваться автоматически - done
+    private Float price; //Поле может быть null, Значение поля должно быть больше 0 - done
+    private UnitOfMeasure unitOfMeasure; //Поле не может быть null - done
+    private Person owner; //Поле не может быть null - done
+}
+public class Coordinates {
+    private int x; - done
+    private Long y; //Максимальное значение поля: 486, Поле не может быть null - done
+}
+public class Person {
+    private String name; //Поле не может быть null, Строка не может быть пустой - done
+    private java.time.ZonedDateTime birthday; //Поле может быть null - done
+    private Color eyeColor; //Поле не может быть null - done
+    private Color hairColor; //Поле не может быть null - done
+    private Country nationality; //Поле может быть null - done
+}
+public enum UnitOfMeasure {
+    KILOGRAMS,
+    CENTIMETERS,
+    MILLILITERS,
+    GRAMS,
+    MILLIGRAMS;
+}
+public enum Color {
+    RED,
+    BLUE,
+    ORANGE,
+    WHITE;
+}
+public enum Color {
+    GREEN,
+    RED,
+    BLUE,
+    BROWN;
+}
+public enum Country {
+    UNITED_KINGDOM,
+    USA,
+    FRANCE,
+    VATICAN,
+    JAPAN;
+}
